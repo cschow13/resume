@@ -1,0 +1,36 @@
+<body>
+  <!-- Hero Section -->
+  <div class="hero">
+    <h1>Welcome to the New York Yankees Fan Page</h1>
+  </div>
+  
+  <!-- Color Bar -->
+  <div class="color-bar"></div>
+  
+  <!-- About Section -->
+  <div class="container mt-4">
+    <div id="about-section" class="mb-4">
+      <h2 id="about-yankees">About the Yankees</h2>
+      <p>The New York Yankees are one of the most iconic teams in Major League Baseball. With 27 World Series championships, they have a storied history of excellence and a fanbase that spans the globe.</p>
+    </div>
+    
+    <!-- Highlights Section -->
+    <div id="highlights-section" class="mb-4">
+      <h3>Team Highlights</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Yankee_Stadium_%282009%29.JPG" alt="Yankee Stadium" class="img-fluid custom-img mb-3">
+      <p>Yankee Stadium is more than a ballpark; it’s a cathedral of baseball. The atmosphere during a game is electrifying!</p>
+    </div>
+    
+    <!-- Video Section -->
+    <div id="video-section">
+      <h3>Watch a Highlight Reel</h3>
+      <div class="ratio ratio-16x9 mb-4">
+        <iframe src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" title="YouTube video player" allowfullscreen></iframe>
+      </div>
+    </div>
+    
+    <!-- Navigation -->
+    <h3>Quick Navigation</h3>
+    <p><a href="#about-yankees" class="anchor-link">Go to About the Yankees</a></p>
+  </div>
+</body>
